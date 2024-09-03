@@ -1,4 +1,5 @@
 const container = document.querySelector("#container");
+const alertButton = document.querySelector("#alert");
 
 const gridSize = 16;
 

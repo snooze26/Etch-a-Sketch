@@ -17,4 +17,9 @@
     border: 1px solid black;
     box-sizing: border-box;
     height: calc(100 / 16);
+    background-color: white;
+}
+
+.grid-square:hover{
+    background-color: black;
 }
