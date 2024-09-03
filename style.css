@@ -14,7 +14,7 @@
 
 .grid-square{
     flex: 00 calc(100% / 16);
-    border: 1px solid white;
+    border: 1px solid black;
     box-sizing: border-box;
-    height: (100 / 16);
+    height: calc(100 / 16);
 }
