@@ -1,0 +1,23 @@
+# Etch-a-Sketch
+
+Create a webpage with a 16x16 grid of square divs
+
+Create divs in Javascript
+Add grid squares inside a container div(html file)
+
+Make divs appear as a grid using flexbox
+
+Set styling for grid squares (borders, margins, etc)
+
+Create hiver effect for grid squares(divs) that changes colors for when mouse passes over them
+Leave a pixilated trail like a pen though grid 
+
+Add a button on top of screen that send use a popup asking "What's the number of squares per side?"
+Set limit on user input to 100
+
+Caputer the result from the popup
+
+Remove the exisiting grid and a new grid that should be generated in the same total space as before
+
+
+
