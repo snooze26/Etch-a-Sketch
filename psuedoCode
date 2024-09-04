@@ -19,5 +19,13 @@ Caputer the result from the popup
 
 Remove the exisiting grid and a new grid that should be generated in the same total space as before
 
+Create a function to capture a random colors
+
+Add this function to the backgrounds of the squares and 
+    an eventer listener when the mouse enters a square in the grid 
+
+Add event listener that will blacken out the square after mouse exit
+
+
 
 
